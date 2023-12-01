@@ -34,7 +34,7 @@
                 
                 <description><![CDATA[<p>dsadsa</p>]]></description>
                                     <guid isPermaLink="false">9abe3186-1ce0-43ab-983d-5dfcab583a47</guid>
-                                <enclosure url="https://podster.fm/episodes/9abe3186-1ce0-43ab-983d-5dfcab583a47/audio.mp3?media=rss" length="111843885" type="audio/mpeg" />
+                                <enclosure url="https://podster.fm/episodes/9abe3186-1ce0-43ab-983d-5dfcab583a47/audio.mp3" length="111843885" type="audio/mpeg" />
                 <pubDate>Fri, 01 Dec 2023 10:44:13 +0300</pubDate>
                                     <itunes:image href="https://podster.fm/image-storage/89120/conversions/VvqQHhiPkJ72X0iK-3xl.jpg" />
                                                     <itunes:episode>2</itunes:episode>
@@ -53,7 +53,7 @@
                 
                 <description><![CDATA[<p>dsdas</p>]]></description>
                                     <guid isPermaLink="false">9abe30e2-a629-4926-9cb4-598f348257ec</guid>
-                                <enclosure url="https://podster.fm/episodes/9abe30e2-a629-4926-9cb4-598f348257ec/audio.mp3?media=rss" length="26450" type="audio/mpeg" />
+                                <enclosure url="https://podster.fm/episodes/9abe30e2-a629-4926-9cb4-598f348257ec/audio.mp3" length="26450" type="audio/mpeg" />
                 <pubDate>Fri, 01 Dec 2023 10:42:26 +0300</pubDate>
                                     <itunes:image href="https://podster.fm/image-storage/89115/conversions/RXsPW5WFfiwzuXo9-3xl.jpg" />
                                                     <itunes:episode>1</itunes:episode>

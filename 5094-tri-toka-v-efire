@@ -1,0 +1,402 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+<channel>
+<title>
+<![CDATA[ Три кота в эфире ]]>
+</title>
+<image>
+<url>https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg</url>
+<title>Три кота в эфире</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124 ]]>
+</link>
+</image>
+<link>https://st.zvq.me/kjsjssss110124</link>
+<description>
+<![CDATA[ <p>Коржик, Карамелька и Компот записывают подкаст для своих слушателей – других котят (и, конечно, для детей). В каждом выпуске они беседуют на разные темы и узнают новые факты о мире, общаются с приглашёнными гостями (другими котами из Котополиса и настоящими известными людьми), узнают о технике, науке, путешествиях и многом другом. Некоторые выпуски котята записывают прямо из путешествия или интересного места, где сегодня оказались – зоопарка, музея с динозаврами, киностудии, где работает их дядя, консерватории и тд.</p> ]]>
+</description>
+<lastBuildDate>Thu, 11 Jan 2024 12:29:26 UTC</lastBuildDate>
+<author>Дмитрий Высоцкий</author>
+<copyright>
+<![CDATA[ Copyright © 2024 ООО "Звук". Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>Дмитрий Высоцкий</itunes:author>
+<itunes:category text="Kids & Family">
+<itunes:category text="Stories for Kids"/>
+</itunes:category>
+<itunes:summary>
+<![CDATA[ <p>Коржик, Карамелька и Компот записывают подкаст для своих слушателей – других котят (и, конечно, для детей). В каждом выпуске они беседуют на разные темы и узнают новые факты о мире, общаются с приглашёнными гостями (другими котами из Котополиса и настоящими известными людьми), узнают о технике, науке, путешествиях и многом другом. Некоторые выпуски котята записывают прямо из путешествия или интересного места, где сегодня оказались – зоопарка, музея с динозаврами, киностудии, где работает их дядя, консерватории и тд.</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:owner>
+<itunes:name>ООО "Звук"</itunes:name>
+<itunes:email>lyushakov@self.team</itunes:email>
+</itunes:owner>
+<itunes:type>serial</itunes:type>
+<item>
+<title>
+<![CDATA[ Линейка ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/8f2d12a6-a22e-4359-bceb-25a7cf2b8e7f ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:40 UTC</pubDate>
+<guid isPermaLink="false">8f2d12a6-a22e-4359-bceb-25a7cf2b8e7f</guid>
+<enclosure length="3514453" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/8f2d12a6-a22e-4359-bceb-25a7cf2b8e7f.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:39</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ О чем поют фонтаны ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/8ed39fa4-5a6d-42ab-b67d-abbe16bf5781 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:09 UTC</pubDate>
+<guid isPermaLink="false">8ed39fa4-5a6d-42ab-b67d-abbe16bf5781</guid>
+<enclosure length="3230241" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/8ed39fa4-5a6d-42ab-b67d-abbe16bf5781.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:21</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Сырный секрет ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/19e7b130-c113-45a1-b209-e95ea5651bdd ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:23 UTC</pubDate>
+<guid isPermaLink="false">19e7b130-c113-45a1-b209-e95ea5651bdd</guid>
+<enclosure length="3439639" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/19e7b130-c113-45a1-b209-e95ea5651bdd.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:34</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Давай мириться ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/b573ce89-26b7-4f1a-a8a0-e6cb1e54f78f ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:17 UTC</pubDate>
+<guid isPermaLink="false">b573ce89-26b7-4f1a-a8a0-e6cb1e54f78f</guid>
+<enclosure length="3499407" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/b573ce89-26b7-4f1a-a8a0-e6cb1e54f78f.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:38</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Бодрое яблоко ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/d183d1c5-8f48-4881-a1cc-0b720a12b166 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:12 UTC</pubDate>
+<guid isPermaLink="false">d183d1c5-8f48-4881-a1cc-0b720a12b166</guid>
+<enclosure length="3498989" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/d183d1c5-8f48-4881-a1cc-0b720a12b166.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:38</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Океанариум ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/531fbc73-cc3e-4b65-84c3-c071ad860cf1 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:59 UTC</pubDate>
+<guid isPermaLink="false">531fbc73-cc3e-4b65-84c3-c071ad860cf1</guid>
+<enclosure length="3519051" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/531fbc73-cc3e-4b65-84c3-c071ad860cf1.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:39</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ В кафе у папы ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/1b88f350-ee14-4aa3-88f0-0608cf166c0d ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:09 UTC</pubDate>
+<guid isPermaLink="false">1b88f350-ee14-4aa3-88f0-0608cf166c0d</guid>
+<enclosure length="3672024" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/1b88f350-ee14-4aa3-88f0-0608cf166c0d.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:49</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Три кота и одна комнат ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/b7c144e9-c4d9-4136-ae95-5cff3829b8df ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:53 UTC</pubDate>
+<guid isPermaLink="false">b7c144e9-c4d9-4136-ae95-5cff3829b8df</guid>
+<enclosure length="3591358" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/b7c144e9-c4d9-4136-ae95-5cff3829b8df.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:44</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Куда бежит молоко ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/f49216ea-da21-473c-b9cd-7bb6cab2e036 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:07 UTC</pubDate>
+<guid isPermaLink="false">f49216ea-da21-473c-b9cd-7bb6cab2e036</guid>
+<enclosure length="2870796" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/f49216ea-da21-473c-b9cd-7bb6cab2e036.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>02:59</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Случайное изобретение ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/ba791c97-1aa4-4538-b89a-c26bec014bcd ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:41 UTC</pubDate>
+<guid isPermaLink="false">ba791c97-1aa4-4538-b89a-c26bec014bcd</guid>
+<enclosure length="4192383" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/ba791c97-1aa4-4538-b89a-c26bec014bcd.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:22</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Погружаемся! ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/264bf94c-b69c-4813-9832-d94cbd493f8c ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:33 UTC</pubDate>
+<guid isPermaLink="false">264bf94c-b69c-4813-9832-d94cbd493f8c</guid>
+<enclosure length="4312337" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/264bf94c-b69c-4813-9832-d94cbd493f8c.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:29</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Золотой компютер ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/dd0d54ad-c0a6-4da2-be85-aeabe01d6886 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:18 UTC</pubDate>
+<guid isPermaLink="false">dd0d54ad-c0a6-4da2-be85-aeabe01d6886</guid>
+<enclosure length="3288337" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/dd0d54ad-c0a6-4da2-be85-aeabe01d6886.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:25</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Доклад ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/a5f2672b-f6a6-468f-8457-b685ac18daec ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:31 UTC</pubDate>
+<guid isPermaLink="false">a5f2672b-f6a6-468f-8457-b685ac18daec</guid>
+<enclosure length="2881663" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/a5f2672b-f6a6-468f-8457-b685ac18daec.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:00</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Дождь из лягушек ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/ea1fc8d7-706f-494d-bf6b-5954022dd5fe ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:16 UTC</pubDate>
+<guid isPermaLink="false">ea1fc8d7-706f-494d-bf6b-5954022dd5fe</guid>
+<enclosure length="2639665" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/ea1fc8d7-706f-494d-bf6b-5954022dd5fe.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>02:44</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Космическая кухня ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/9ee37fc5-27d8-4773-a8d2-78ffc07211ab ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:15 UTC</pubDate>
+<guid isPermaLink="false">9ee37fc5-27d8-4773-a8d2-78ffc07211ab</guid>
+<enclosure length="4196145" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/9ee37fc5-27d8-4773-a8d2-78ffc07211ab.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:22</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Что скрывается в пещере ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/15990a0a-abb8-448f-b96e-0f39b8b2542f ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:29 UTC</pubDate>
+<guid isPermaLink="false">15990a0a-abb8-448f-b96e-0f39b8b2542f</guid>
+<enclosure length="3651126" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/15990a0a-abb8-448f-b96e-0f39b8b2542f.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:48</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Зачем ёлке иголки ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/8c8ca21d-a029-444f-a954-7ffab73aaa5d ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:30 UTC</pubDate>
+<guid isPermaLink="false">8c8ca21d-a029-444f-a954-7ffab73aaa5d</guid>
+<enclosure length="4233761" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/8c8ca21d-a029-444f-a954-7ffab73aaa5d.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:24</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Работа для аэропорта ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/103bd67f-42fa-4d42-8396-bd526db74bb6 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:02 UTC</pubDate>
+<guid isPermaLink="false">103bd67f-42fa-4d42-8396-bd526db74bb6</guid>
+<enclosure length="4098760" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/103bd67f-42fa-4d42-8396-bd526db74bb6.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:16</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Детективная история ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/af6eaa01-e7bd-4739-b596-3834686cc444 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:58 UTC</pubDate>
+<guid isPermaLink="false">af6eaa01-e7bd-4739-b596-3834686cc444</guid>
+<enclosure length="4060308" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/af6eaa01-e7bd-4739-b596-3834686cc444.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>04:13</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Шоколадный рецепт ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvq.me/kjsjssss110124/48f5652f-149c-4efc-8a6b-0036003c3d04 ]]>
+</link>
+<pubDate>Tue, 26 Dec 2023 21:00:54 UTC</pubDate>
+<guid isPermaLink="false">48f5652f-149c-4efc-8a6b-0036003c3d04</guid>
+<enclosure length="3503586" type="audio/mp3" url="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/48f5652f-149c-4efc-8a6b-0036003c3d04.mp3"/>
+<itunes:image href="https://st.zvq.me/r/6d43f88f-b761-47ca-bd36-869242352d8d/poster.jpeg"/>
+<itunes:duration>03:38</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>20</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>

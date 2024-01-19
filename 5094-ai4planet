@@ -1,0 +1,231 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+<channel>
+<title>
+<![CDATA[ AI4PLANET ]]>
+</title>
+<image>
+<url>https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png</url>
+<title>AI4PLANET</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet ]]>
+</link>
+</image>
+<link>https://st.zvuk.com/ai4planet</link>
+<description>
+<![CDATA[ <p>Почему все вокруг так много говорят про искусственный интеллект? Почему без ИИ уже трудно представить устойчивое будущее? Как бум генеративного ИИ изменит жизнь каждого из нас и почему об этом важно говорить уже сегодня?</p> <p>Настоящий ликбез о том, на что способен ИИ на благо человечества, – в подкаст-студии <strong>AI4PLANET</strong>конференции AI Journey: обсуждение вызовов и возможностей, лучших практик на стыке устойчивого развития, человека и технологий ИИ.</p> <p>Бонус: даже музыку в подкасте сочинил искусственный интеллект Сбера SymFormer.</p> ]]>
+</description>
+<lastBuildDate>Mon, 27 Nov 2023 21:01:00 UTC</lastBuildDate>
+<author>СБЕР</author>
+<copyright>
+<![CDATA[ Copyright © 2023 ООО "Звук". Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>СБЕР</itunes:author>
+<itunes:category text="Science"/>
+<itunes:summary>
+<![CDATA[ <p>Почему все вокруг так много говорят про искусственный интеллект? Почему без ИИ уже трудно представить устойчивое будущее? Как бум генеративного ИИ изменит жизнь каждого из нас и почему об этом важно говорить уже сегодня?</p> <p>Настоящий ликбез о том, на что способен ИИ на благо человечества, – в подкаст-студии <strong>AI4PLANET</strong>конференции AI Journey: обсуждение вызовов и возможностей, лучших практик на стыке устойчивого развития, человека и технологий ИИ.</p> <p>Бонус: даже музыку в подкасте сочинил искусственный интеллект Сбера SymFormer.</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:owner>
+<itunes:name>ООО "Звук"</itunes:name>
+<itunes:email>lyushakov@self.team</itunes:email>
+</itunes:owner>
+<itunes:type>serial</itunes:type>
+<item>
+<title>
+<![CDATA[ Маршрут построен: искусственный интеллект во благо планеты ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/58c0d18b-9964-487b-b0ef-e618b577b9f4 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:31 UTC</pubDate>
+<guid isPermaLink="false">58c0d18b-9964-487b-b0ef-e618b577b9f4</guid>
+<description>
+<![CDATA[ <p>Устойчивое развитие и ИИ – междисциплинарная область знаний, на стыке которых возникают всё новые научные и прикладные направления. Решая задачи повестки устойчивого развития, ИИ находит вдохновение у самой природы. Технологии ИИ применяются в решении различных задач: от изменений климата до сортировки мусора и повышения энергоэффективности.</p> <p>В подкасте** AI4PLANET** – о глобальных трендах синергии ИИ и устойчивого развития, вызовах климатической повестки и новых инструментах решения наиболее актуальных проблем современности.</p> ]]>
+</description>
+<enclosure length="38844989" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/58c0d18b-9964-487b-b0ef-e618b577b9f4.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Устойчивое развитие и ИИ – междисциплинарная область знаний, на стыке которых возникают всё новые научные и прикладные направления. Решая задачи повестки устойчивого развития, ИИ находит вдохновение у самой природы. Технологии ИИ применяются в решении различных задач: от изменений климата до сортировки мусора и повышения энергоэффективности.</p> <p>В подкасте** AI4PLANET** – о глобальных трендах синергии ИИ и устойчивого развития, вызовах климатической повестки и новых инструментах решения наиболее актуальных проблем современности.</p> ]]>
+</itunes:summary>
+<itunes:duration>40:27</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Чистый ноль: энергопереход, декорбанизация и снижение углеродного следа с помощью ИИ ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/31b9a7d0-4b58-416e-91da-b49de5c0be4c ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:10 UTC</pubDate>
+<guid isPermaLink="false">31b9a7d0-4b58-416e-91da-b49de5c0be4c</guid>
+<description>
+<![CDATA[ <p>Изменения климата заставляют человечество отказываться от традиционных энергоносителей и искать им замену, переходить с традиционных видов топлива на возобновляемые источники энергии – такие, как энергия солнца, ветра, воды и т.д. При этом, развитие «зеленой» энергетики и мировой тренд на декарбонизацию требуют обработки всё больших объемов данных. Использовать энергию более эффективно и переходить на возобновляемые источники позволит искусственный интеллект.</p> <p>Эти и другие вопросы одного из самых глобальных трендов нашего времени – в подкасте <strong>AI4PLANET!</strong></p> ]]>
+</description>
+<enclosure length="23515918" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/31b9a7d0-4b58-416e-91da-b49de5c0be4c.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Изменения климата заставляют человечество отказываться от традиционных энергоносителей и искать им замену, переходить с традиционных видов топлива на возобновляемые источники энергии – такие, как энергия солнца, ветра, воды и т.д. При этом, развитие «зеленой» энергетики и мировой тренд на декарбонизацию требуют обработки всё больших объемов данных. Использовать энергию более эффективно и переходить на возобновляемые источники позволит искусственный интеллект.</p> <p>Эти и другие вопросы одного из самых глобальных трендов нашего времени – в подкасте <strong>AI4PLANET!</strong></p> ]]>
+</itunes:summary>
+<itunes:duration>24:29</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ На страже флоры и фауны: ИИ для сохранения биоразнообразия ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/14f1fc5b-2044-436e-9929-2fe36d3dac44 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:50 UTC</pubDate>
+<guid isPermaLink="false">14f1fc5b-2044-436e-9929-2fe36d3dac44</guid>
+<description>
+<![CDATA[ <p>Говорят, пока ты не полюбишь животное, часть твоей души будет спать, а кто не любит природу, тот не любит человека.</p> <p>Трудно с этим поспорить, особенно когда миллион видов растений и животных на грани исчезновения. А давай послушаем, зачем биологи всё чаще обращаются к технологиям ИИ и как с их помощью отслеживают состояние флоры и фауны. Включай подкаст **AI4PLANET **конференции AI Journey и не забудь мимиметр.</p> ]]>
+</description>
+<enclosure length="29806622" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/14f1fc5b-2044-436e-9929-2fe36d3dac44.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Говорят, пока ты не полюбишь животное, часть твоей души будет спать, а кто не любит природу, тот не любит человека.</p> <p>Трудно с этим поспорить, особенно когда миллион видов растений и животных на грани исчезновения. А давай послушаем, зачем биологи всё чаще обращаются к технологиям ИИ и как с их помощью отслеживают состояние флоры и фауны. Включай подкаст **AI4PLANET **конференции AI Journey и не забудь мимиметр.</p> ]]>
+</itunes:summary>
+<itunes:duration>31:02</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Лёд тронулся: преимущества искусственного интеллекта в борьбе с изменениями климата ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/7317c29b-f9a1-4d3a-b51e-55b76464fd6c ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:43 UTC</pubDate>
+<guid isPermaLink="false">7317c29b-f9a1-4d3a-b51e-55b76464fd6c</guid>
+<description>
+<![CDATA[ <p>Точные и надёжные методы прогнозирования и понимания последствий изменений климата – главное достижение в моделировании климатических моделей с использованием искусственного интеллекта.</p> <p>В подкасте <strong>AI4PLANET</strong> узнаем, как можно улучшить способность решать климатические проблемы с помощью ИИ, зачем учитывать факторы климатических изменений при оценке экономических и финансовых рисков и как мы будем адаптироваться к изменениям климата.</p> ]]>
+</description>
+<enclosure length="25121717" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/7317c29b-f9a1-4d3a-b51e-55b76464fd6c.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Точные и надёжные методы прогнозирования и понимания последствий изменений климата – главное достижение в моделировании климатических моделей с использованием искусственного интеллекта.</p> <p>В подкасте <strong>AI4PLANET</strong> узнаем, как можно улучшить способность решать климатические проблемы с помощью ИИ, зачем учитывать факторы климатических изменений при оценке экономических и финансовых рисков и как мы будем адаптироваться к изменениям климата.</p> ]]>
+</itunes:summary>
+<itunes:duration>26:10</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Смарт-сити: как города становятся умными благодаря ИИ ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/86fb69c4-192c-4067-9c96-6b9f2c5a7958 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:52 UTC</pubDate>
+<guid isPermaLink="false">86fb69c4-192c-4067-9c96-6b9f2c5a7958</guid>
+<description>
+<![CDATA[ <p>Умный город – город интеллектуальный, удобный, теплый, комфортный, безопасный, осознанный и ориентированный на благополучие человека. Это город, в котором мы выходим на улицу и понимаем, что с нами ничего не произойдёт, дышим свежим воздухом.</p> <p>Все это возможно на базе применения технологий ИИ. ИИ в городе – это незаметный, но незаменимый друг и спутник человека, который переключает светофор в момент приближения к нему, звонит напомнить, что завтра у тебя самолёт, и поэтому запись к врачу надо перенести.</p> <p>Услышим, как улучшается жизнь человека в городском пространстве «умного города», в студии <strong>AI4PLANET</strong>.</p> ]]>
+</description>
+<enclosure length="19530677" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/86fb69c4-192c-4067-9c96-6b9f2c5a7958.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Умный город – город интеллектуальный, удобный, теплый, комфортный, безопасный, осознанный и ориентированный на благополучие человека. Это город, в котором мы выходим на улицу и понимаем, что с нами ничего не произойдёт, дышим свежим воздухом.</p> <p>Все это возможно на базе применения технологий ИИ. ИИ в городе – это незаметный, но незаменимый друг и спутник человека, который переключает светофор в момент приближения к нему, звонит напомнить, что завтра у тебя самолёт, и поэтому запись к врачу надо перенести.</p> <p>Услышим, как улучшается жизнь человека в городском пространстве «умного города», в студии <strong>AI4PLANET</strong>.</p> ]]>
+</itunes:summary>
+<itunes:duration>20:20</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Век живи и век учись: как ИИ преобразует социальную сферу и образование ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/09186b13-3967-44fb-ad1d-73eaa1540024 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:39 UTC</pubDate>
+<guid isPermaLink="false">09186b13-3967-44fb-ad1d-73eaa1540024</guid>
+<description>
+<![CDATA[ <p>Каждый из нас родился с равными возможностями получить достойное образование и достойный уровень жизни, независимо от пола, возраста или статуса. В вопросах социального прогресса именно искусственный интеллект превращается в трансформирующую технологию и становится мощной движущей силой позитивных изменений вокруг каждого из нас.</p> <p>О возможностях социального прогресса – в подкаст-студии <strong>AI4PLANET</strong>.</p> ]]>
+</description>
+<enclosure length="27389146" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/09186b13-3967-44fb-ad1d-73eaa1540024.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Каждый из нас родился с равными возможностями получить достойное образование и достойный уровень жизни, независимо от пола, возраста или статуса. В вопросах социального прогресса именно искусственный интеллект превращается в трансформирующую технологию и становится мощной движущей силой позитивных изменений вокруг каждого из нас.</p> <p>О возможностях социального прогресса – в подкаст-студии <strong>AI4PLANET</strong>.</p> ]]>
+</itunes:summary>
+<itunes:duration>28:31</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Ассистент или конкурент: как подружить творчество и искусственный интеллект? ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/da5346fd-a8d2-42e3-860c-1814c82be5c7 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:37 UTC</pubDate>
+<guid isPermaLink="false">da5346fd-a8d2-42e3-860c-1814c82be5c7</guid>
+<description>
+<![CDATA[ <p>Как подружить творчество и искусственный интеллект? Сможем ли мы с помощью ИИ писать картины в стиле Ван Гога? И имеет ли смысл бояться «творчества», которое сегодня генерирует ИИ?</p> <p>Давай разберёмся в очевидных (и не очень) возможностях, которые даёт искусственный интеллект творческим людям. Включай подкаст **AI4PLANET **конференции AI Journey!</p> ]]>
+</description>
+<enclosure length="30286439" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/da5346fd-a8d2-42e3-860c-1814c82be5c7.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Как подружить творчество и искусственный интеллект? Сможем ли мы с помощью ИИ писать картины в стиле Ван Гога? И имеет ли смысл бояться «творчества», которое сегодня генерирует ИИ?</p> <p>Давай разберёмся в очевидных (и не очень) возможностях, которые даёт искусственный интеллект творческим людям. Включай подкаст **AI4PLANET **конференции AI Journey!</p> ]]>
+</itunes:summary>
+<itunes:duration>31:32</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ Прекрасное далёко: искусственный интеллект для человека и мира будущего ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ai4planet/df7c9669-77e6-4736-9c65-7075d5541514 ]]>
+</link>
+<pubDate>Mon, 27 Nov 2023 21:00:57 UTC</pubDate>
+<guid isPermaLink="false">df7c9669-77e6-4736-9c65-7075d5541514</guid>
+<description>
+<![CDATA[ <p>Пугает или завораживает? Какой он – мир далёкого будущего?</p> <p>Смотри и слушай рассуждения о преобразовании мира, в котором мы будем жить через 30-50 лет, в подкаст-студии конференции AI Journey <strong>AI4PLANET</strong>!</p> ]]>
+</description>
+<enclosure length="29741420" type="audio/mp3" url="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/df7c9669-77e6-4736-9c65-7075d5541514.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/67dfab20-0555-4f70-b9f2-270466dd3202/poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Пугает или завораживает? Какой он – мир далёкого будущего?</p> <p>Смотри и слушай рассуждения о преобразовании мира, в котором мы будем жить через 30-50 лет, в подкаст-студии конференции AI Journey <strong>AI4PLANET</strong>!</p> ]]>
+</itunes:summary>
+<itunes:duration>30:58</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>

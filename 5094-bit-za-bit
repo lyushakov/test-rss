@@ -1,0 +1,189 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+<channel>
+<title>
+<![CDATA[ “Бит за Бит” — подкаст о музыке в IT и IT в музыке от Звука ]]>
+</title>
+<image>
+<url>https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/poster.png</url>
+<title>“Бит за Бит” — подкаст о музыке в IT и IT в музыке от Звука</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit ]]>
+</link>
+</image>
+<link>https://st.zvuk.com/bit-za-bit</link>
+<description>
+<![CDATA[ <p>HiFi сервис Звук представляет подкаст “Бит за Бит”.</p> <p>Из наших выпусков вы узнаете о том, как мы очутились в современном цифровом мире музыки с кучей фичей и невероятных алгоритмов, над чем сейчас трудятся разработчики и как мы раньше жили без этих технологий. В подкасте мы говорим о работе в музыкальных стриминговых сервисах, заглядываем в закулисье разработки и знакомимся с людьми, которые двигают индустрию вперед.</p> <p>​</p> <p>Задать вопросы, послушать все эпизоды, узнать побольше о гостях подкаста или оставить свой фидбэк можно через нашего специального бота в Telegram — <a href="https://t.me/zvuk_com_bot">@zvuk_com_bot</a>.</p> ]]>
+</description>
+<lastBuildDate>Wed, 18 Oct 2023 08:19:33 UTC</lastBuildDate>
+<author>Звук</author>
+<copyright>
+<![CDATA[ Copyright © 2023 ООО "Звук". Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>Звук</itunes:author>
+<itunes:category text="Music">
+<itunes:category text="Music History"/>
+</itunes:category>
+<itunes:category text="Technology"/>
+<itunes:category text="Business">
+<itunes:category text="Careers"/>
+</itunes:category>
+<itunes:summary>
+<![CDATA[ <p>HiFi сервис Звук представляет подкаст “Бит за Бит”.</p> <p>Из наших выпусков вы узнаете о том, как мы очутились в современном цифровом мире музыки с кучей фичей и невероятных алгоритмов, над чем сейчас трудятся разработчики и как мы раньше жили без этих технологий. В подкасте мы говорим о работе в музыкальных стриминговых сервисах, заглядываем в закулисье разработки и знакомимся с людьми, которые двигают индустрию вперед.</p> <p>​</p> <p>Задать вопросы, послушать все эпизоды, узнать побольше о гостях подкаста или оставить свой фидбэк можно через нашего специального бота в Telegram — <a href="https://t.me/zvuk_com_bot">@zvuk_com_bot</a>.</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/poster.png"/>
+<itunes:owner>
+<itunes:name>ООО "Звук"</itunes:name>
+<itunes:email>lyushakov@self.team</itunes:email>
+</itunes:owner>
+<itunes:type>serial</itunes:type>
+<item>
+<title>
+<![CDATA[ #1. Качество звука ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/a14312ec-5d1f-42ff-8ad1-30d337da5518 ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:11:24 UTC</pubDate>
+<guid isPermaLink="false">a14312ec-5d1f-42ff-8ad1-30d337da5518</guid>
+<description>
+<![CDATA[ <p>Что же такое HiFi, где и как его услышать? Говорим о качестве звука с Product owner направления HiFi в Звуке Пашей Вардиевым и гостем выпуска, экспертом Валерием Быковщенко, автором YouTube-канала о виниле и аудиотехнике Valeron's Vinyl Channel.</p> ]]>
+</description>
+<enclosure length="21172391" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/a14312ec-5d1f-42ff-8ad1-30d337da5518.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/a14312ec-5d1f-42ff-8ad1-30d337da5518__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Что же такое HiFi, где и как его услышать? Говорим о качестве звука с Product owner направления HiFi в Звуке Пашей Вардиевым и гостем выпуска, экспертом Валерием Быковщенко, автором YouTube-канала о виниле и аудиотехнике Valeron's Vinyl Channel.</p> ]]>
+</itunes:summary>
+<itunes:duration>22:03</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ #2. Поиск музыки ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/a1ef675a-b074-4d77-9bff-8802bd3da658 ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:23:47 UTC</pubDate>
+<guid isPermaLink="false">a1ef675a-b074-4d77-9bff-8802bd3da658</guid>
+<description>
+<![CDATA[ <p>В этом выпуске диджей Грув и Сергей Бурдов, владелец продукта “Поиск” в Звуке, обсуждают, как работает поиск музыкального контента. Как все начиналось: путь поиска музыки от полок магазинов винила в Лондоне до двух тапов в музыкальном в приложении. Бобинные магнитофоны, Горбушка и дабплейты _**— **_поностальгируем вместе.</p> ]]>
+</description>
+<enclosure length="17333854" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/a1ef675a-b074-4d77-9bff-8802bd3da658.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/a1ef675a-b074-4d77-9bff-8802bd3da658__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>В этом выпуске диджей Грув и Сергей Бурдов, владелец продукта “Поиск” в Звуке, обсуждают, как работает поиск музыкального контента. Как все начиналось: путь поиска музыки от полок магазинов винила в Лондоне до двух тапов в музыкальном в приложении. Бобинные магнитофоны, Горбушка и дабплейты _**— **_поностальгируем вместе.</p> ]]>
+</itunes:summary>
+<itunes:duration>18:03</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ #3. Волна и радио ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/29d1c4b0-ca26-4201-aa1d-34cadf81d93f ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:24:48 UTC</pubDate>
+<guid isPermaLink="false">29d1c4b0-ca26-4201-aa1d-34cadf81d93f</guid>
+<description>
+<![CDATA[ <p>Вместе с диджеем радио Energy Богданом Кантемировым и системным аналитиком Звука Женей Нижниковым говорим про формирование эфира. Вечный вопрос, что лучше: алгоритмы или редакционные подборки? Кто собирает плейлисты на радио и что такое Волна в HiFi-сервисе Звук?</p> ]]>
+</description>
+<enclosure length="16798866" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/29d1c4b0-ca26-4201-aa1d-34cadf81d93f.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/29d1c4b0-ca26-4201-aa1d-34cadf81d93f__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Вместе с диджеем радио Energy Богданом Кантемировым и системным аналитиком Звука Женей Нижниковым говорим про формирование эфира. Вечный вопрос, что лучше: алгоритмы или редакционные подборки? Кто собирает плейлисты на радио и что такое Волна в HiFi-сервисе Звук?</p> ]]>
+</itunes:summary>
+<itunes:duration>17:29</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ #4. Рекомендации музыки ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/683fdea5-6f98-48c1-b23a-5621e6552635 ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:25:38 UTC</pubDate>
+<guid isPermaLink="false">683fdea5-6f98-48c1-b23a-5621e6552635</guid>
+<description>
+<![CDATA[ <p>Виджей Александр Анатольевич и Product owner рекомендаций Звука Дмитрий Кудасов обсуждают рекомендации музыки и подбор контента. Как работают алгоритмы, формирующие плейлисты в стриминге, и на кого при составлении хит-парадов ориентировались в золотые времена МТV? Как алгоритмы рекомендаций понимают, какая музыка понравится именно вам?</p> ]]>
+</description>
+<enclosure length="16088335" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/683fdea5-6f98-48c1-b23a-5621e6552635.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/683fdea5-6f98-48c1-b23a-5621e6552635__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Виджей Александр Анатольевич и Product owner рекомендаций Звука Дмитрий Кудасов обсуждают рекомендации музыки и подбор контента. Как работают алгоритмы, формирующие плейлисты в стриминге, и на кого при составлении хит-парадов ориентировались в золотые времена МТV? Как алгоритмы рекомендаций понимают, какая музыка понравится именно вам?</p> ]]>
+</itunes:summary>
+<itunes:duration>16:45</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ #5. Опыт слушателя ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/08c9f2b1-ac34-4055-abcc-b69aedd89247 ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:26:59 UTC</pubDate>
+<guid isPermaLink="false">08c9f2b1-ac34-4055-abcc-b69aedd89247</guid>
+<description>
+<![CDATA[ <p>Как изменился опыт слушателя и его взаимодействие с артистами и музыкантами за последние месяцы? Онлайн vs оффлайн концерты? Зачем МТС развивает фиджитал и AR, а Звук пилит донаты и голосовые комнаты? Рассуждают Ольга Михайлова, product Звука, и Рафаэль Галиев, CPO витрин MTC Live.</p> ]]>
+</description>
+<enclosure length="15256179" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/08c9f2b1-ac34-4055-abcc-b69aedd89247.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/08c9f2b1-ac34-4055-abcc-b69aedd89247__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Как изменился опыт слушателя и его взаимодействие с артистами и музыкантами за последние месяцы? Онлайн vs оффлайн концерты? Зачем МТС развивает фиджитал и AR, а Звук пилит донаты и голосовые комнаты? Рассуждают Ольга Михайлова, product Звука, и Рафаэль Галиев, CPO витрин MTC Live.</p> ]]>
+</itunes:summary>
+<itunes:duration>15:53</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ #6. Настоящее и будущее стриминга ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/bit-za-bit/3cce2e43-a61c-458c-a1f3-312f07d9f733 ]]>
+</link>
+<pubDate>Mon, 14 Nov 2022 15:27:48 UTC</pubDate>
+<guid isPermaLink="false">3cce2e43-a61c-458c-a1f3-312f07d9f733</guid>
+<description>
+<![CDATA[ <p>Какое будущее ждет стриминг? Как меняется формат потребления аудиоконтента и что будет важно для слушателя и платформ через 5 лет?Разберем технологии, которые наверняка останутся с нами, и функционал, который уйдет в прошлое. В роли визионеров — Сергей Томилов, дизайн-директор Звука, и Андрей Мишутин, который развивает Яндекс Музыку.</p> ]]>
+</description>
+<enclosure length="14065413" type="audio/mp3" url="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/3cce2e43-a61c-458c-a1f3-312f07d9f733.mp3"/>
+<itunes:image href="https://st.zvuk.com/r/8499e850-ce1e-4e2e-abc3-e94efc1034f5/3cce2e43-a61c-458c-a1f3-312f07d9f733__poster.png"/>
+<itunes:summary>
+<![CDATA[ <p>Какое будущее ждет стриминг? Как меняется формат потребления аудиоконтента и что будет важно для слушателя и платформ через 5 лет?Разберем технологии, которые наверняка останутся с нами, и функционал, который уйдет в прошлое. В роли визионеров — Сергей Томилов, дизайн-директор Звука, и Андрей Мишутин, который развивает Яндекс Музыку.</p> ]]>
+</itunes:summary>
+<itunes:duration>14:39</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>

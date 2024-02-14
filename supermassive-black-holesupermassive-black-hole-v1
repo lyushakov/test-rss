@@ -1,0 +1,70 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+<channel>
+<title>
+<![CDATA[ hhhh240205-supermassive-black-hole ]]>
+</title>
+<image>
+<url>https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/poster.jpeg</url>
+<title>hhhh240205-supermassive-black-hole</title>
+<link>
+<![CDATA[ https://dev-st.zvq.me/hhhh240205-supermassive-black-hole ]]>
+</link>
+</image>
+<link>https://dev-st.zvq.me/hhhh240205-supermassive-black-hole</link>
+<description>
+<![CDATA[ <p>fat podcast</p> ]]>
+</description>
+<lastBuildDate>Wed, 14 Feb 2024 02:31:47 UTC</lastBuildDate>
+<author>lyushakov</author>
+<copyright>
+<![CDATA[ Copyright © 2024 lyushakov@self.team. Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>lyushakov</itunes:author>
+<itunes:category text="Arts"/>
+<itunes:category text="Comedy"/>
+<itunes:summary>
+<![CDATA[ <p>fat podcast</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/poster.jpeg"/>
+<itunes:owner>
+<itunes:name>lyushakov@self.team</itunes:name>
+<itunes:email>lyushakov@self.team</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>
+<![CDATA[ 240208 1241 ]]>
+</title>
+<link>
+<![CDATA[ https://dev-st.zvq.me/hhhh240205-supermassive-black-hole/86c15e04-90a0-4bdb-9f8f-b1d75c2f1331 ]]>
+</link>
+<pubDate>Thu, 08 Feb 2024 05:43:42 UTC</pubDate>
+<guid isPermaLink="false">86c15e04-90a0-4bdb-9f8f-b1d75c2f1331</guid>
+<enclosure length="3192901" type="audio/mp3" url="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/86c15e04-90a0-4bdb-9f8f-b1d75c2f1331.mp3"/>
+<itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/poster.jpeg"/>
+<itunes:duration>03:19</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ 240205 090617 ]]>
+</title>
+<link>
+<![CDATA[ https://dev-st.zvq.me/hhhh240205-supermassive-black-hole/8900aa26-9370-4616-a96d-d008fa6d060f ]]>
+</link>
+<pubDate>Mon, 05 Feb 2024 02:17:40 UTC</pubDate>
+<guid isPermaLink="false">8900aa26-9370-4616-a96d-d008fa6d060f</guid>
+<itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>

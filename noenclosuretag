@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Некорректный формат трека</title>
+        <image>
+            <url>{{domain}}/poster/poster.jpeg</url>
+            <title>Некорректный формат трека</title>
+            <link>https://zvuk.com</link>
+        </image>
+        <link>https://zvuk.com</link>
+        <description><![CDATA[<p>Некорректный формат трека</p> ]]></description>
+        <lastBuildDate>Thu, 24 Feb 2022 08:22:00 UTC</lastBuildDate>
+        <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
+        <author>asdasd</author>
+        <copyright>Copyright © 2022 Андрей Максимович. Все права защищены.</copyright>
+        <generator>Podcast Generator</generator>
+        <language>ru</language>
+        <itunes:author>asdasd</itunes:author>
+        <itunes:category text="Leisure"/>
+        <itunes:summary><![CDATA[<p>Некорректный формат трека</p> ]]></itunes:summary>
+        <itunes:block>no</itunes:block>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="{{domain}}/poster/poster.jpeg"/>
+        <itunes:owner>
+            <itunes:name>Андрей Максимович</itunes:name>
+            <itunes:email>{{mail}}</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>asdasdasd</title>
+            <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
+            <guid isPermaLink="false">3faafbc7-a353-4dc3-acbb-903650a4cbf4</guid>
+            <description><![CDATA[<p>asdasdsadasdasdasd</p> ]]></description>
+            <itunes:image href="{{domain}}/poster/poster.jpeg"/>
+            <itunes:author>AnotherItem</itunes:author>
+            <itunes:summary><![CDATA[<p>asdasdsadasdasdasd</p> ]]></itunes:summary>
+            <itunes:duration>04:04</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>

@@ -36,7 +36,6 @@
 <itunes:email>lyushakov@self.team</itunes:email>
 </itunes:owner>
 <itunes:type>episodic</itunes:type>
-
 <item>
 <title>
 <![CDATA[ 240208 1241 ]]>
@@ -53,7 +52,6 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:block>no</itunes:block>
 </item>
-
 <item>
 <title>
 <![CDATA[ 240205 090617 ]]>
@@ -68,8 +66,5 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:block>no</itunes:block>
 </item>
-
-
-
 </channel>
 </rss>

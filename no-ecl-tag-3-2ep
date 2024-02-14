@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Некорректный формат трека</title>
+        <image>
+            <url>{{domain}}/poster/poster.jpeg</url>
+            <title>Некорректный формат трека</title>
+            <link>https://zvuk.com</link>
+        </image>
+        <link>https://zvuk.com</link>
+        <description><![CDATA[<p>Некорректный формат трека</p> ]]></description>
+        <lastBuildDate>Thu, 24 Feb 2022 08:22:00 UTC</lastBuildDate>
+        <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
+        <author>asdasd</author>
+        <copyright>Copyright © 2022 Андрей Максимович. Все права защищены.</copyright>
+        <generator>Podcast Generator</generator>
+        <language>ru</language>
+        <itunes:author>asdasd</itunes:author>
+        <itunes:category text="Leisure"/>
+        <itunes:summary><![CDATA[<p>Некорректный формат трека</p> ]]></itunes:summary>
+        <itunes:block>no</itunes:block>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
+        <itunes:owner>
+            <itunes:name>Андрей Максимович</itunes:name>
+            <itunes:email>lyushakov@self.team</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>asdasdasd</title>
+            <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
+            <guid isPermaLink="false">3faafbc7-a353-4dc3-acbb-903650a4cbf4</guid>
+            <description><![CDATA[<p>asdasdsadasdasdasd</p> ]]></description>
+            <itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
+            <itunes:author>AnotherItem</itunes:author>
+            <itunes:summary><![CDATA[<p>asdasdsadasdasdasd</p> ]]></itunes:summary>
+            <itunes:duration>04:04</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>asdasdasd123</title>
+            <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
+            <guid isPermaLink="false">3faafbc7-a353-4dc3-acbb-903650a4cbf4</guid>
+            <description><![CDATA[<p>asdasdsadasdasdasd</p> ]]></description>
+            <enclosure length="3192901" type="audio/mp3" url="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/86c15e04-90a0-4bdb-9f8f-b1d75c2f1331.mp3"/>
+            <itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
+            <itunes:author>AnotherItem</itunes:author>
+            <itunes:summary><![CDATA[<p>asdasdsadasdasdasd</p> ]]></itunes:summary>
+            <itunes:duration>04:04</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>

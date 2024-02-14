@@ -20,10 +20,10 @@
         <itunes:summary><![CDATA[<p>Некорректный формат трека</p> ]]></itunes:summary>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{domain}}/poster/poster.jpeg"/>
+        <itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
         <itunes:owner>
             <itunes:name>Андрей Максимович</itunes:name>
-            <itunes:email>{{mail}}</itunes:email>
+            <itunes:email>lyushakov@self.team</itunes:email>
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <item>
@@ -31,7 +31,7 @@
             <pubDate>Thu, 10 Feb 2022 08:20:04 UTC</pubDate>
             <guid isPermaLink="false">3faafbc7-a353-4dc3-acbb-903650a4cbf4</guid>
             <description><![CDATA[<p>asdasdsadasdasdasd</p> ]]></description>
-            <itunes:image href="{{domain}}/poster/poster.jpeg"/>
+            <itunes:image href="https://dev-st.zvq.me/r/00f9e3e3-a3a2-46bc-b1be-a82dc4a78d09/8900aa26-9370-4616-a96d-d008fa6d060f__poster.png"/>
             <itunes:author>AnotherItem</itunes:author>
             <itunes:summary><![CDATA[<p>asdasdsadasdasdasd</p> ]]></itunes:summary>
             <itunes:duration>04:04</itunes:duration>

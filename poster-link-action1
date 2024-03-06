@@ -1,0 +1,59 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+    <channel>
+        <title>
+            <![CDATA[ hhhh230527-test-prod-self ]]>
+        </title>
+        <image>
+            <url>https://st.zvuk.com/r/3c1a13a9-fcfa-4cd0-bb6c-14d73cbaf8d2/poster.jpeg</url>
+            <title>hhhh230527-test-prod-self</title>
+            <link>
+                <![CDATA[ https://st.zvuk.com/hhhh230527-test-prod-self ]]>
+            </link>
+        </image>
+        <link>https://st.zvuk.com/hhhh230527-test-prod-self</link>
+        <description>
+            <![CDATA[ <p>test</p> ]]>
+        </description>
+        <lastBuildDate>Mon, 04 Mar 2024 03:26:31 UTC</lastBuildDate>
+        <author>lyushakov</author>
+        <copyright>
+            <![CDATA[ Copyright © 2024 lyushakov@self.team SELF. Все права защищены. ]]>
+        </copyright>
+        <generator>st.zvuk.com</generator>
+        <language>ru</language>
+        <itunes:author>lyushakov</itunes:author>
+        <itunes:category text="Business"/>
+        <itunes:summary>
+            <![CDATA[ <p>test</p> ]]>
+        </itunes:summary>
+        <itunes:block>no</itunes:block>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://localhost:8080/auth/ping"/>
+        <itunes:owner>
+            <itunes:name>lyushakov@self.team SELF</itunes:name>
+            <itunes:email>lyushakov@self.team</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>
+                <![CDATA[ 240129 0925 ]]>
+            </title>
+            <link>
+                <![CDATA[ https://st.zvuk.com/hhhh230527-test-prod-self/0cb8717e-5fea-4b50-a30a-2432f81550a2 ]]>
+            </link>
+            <pubDate>Mon, 29 Jan 2024 02:26:17 UTC</pubDate>
+            <guid isPermaLink="false">0cb8717e-5fea-4b50-a30a-2432f81550a2</guid>
+            <enclosure length="20923" type="audio/mp3"
+                       url="https://st.zvuk.com/r/3c1a13a9-fcfa-4cd0-bb6c-14d73cbaf8d2/0cb8717e-5fea-4b50-a30a-2432f81550a2.mp3"/>
+            <itunes:image
+                    href="https://st.zvuk.com/r/3c1a13a9-fcfa-4cd0-bb6c-14d73cbaf8d2/0cb8717e-5fea-4b50-a30a-2432f81550a2__poster.jpeg"/>
+            <itunes:duration>00:01</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+     </channel>
+</rss>

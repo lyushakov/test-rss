@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[longer-truba-podcasst]]></title>
+        <description><![CDATA[skol'ko  ehe tureckui]]></description>
+        <link>https://blablablatest.mave.digital</link>
+        <image>
+            <url>https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/cc1906b7-3da0-4693-8a8b-885490838af8.jpg</url>
+            <title>longer-truba-podcasst</title>
+            <link>https://blablablatest.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Fri, 01 Dec 2023 17:51:52 GMT</lastBuildDate>
+        <pubDate>Fri, 20 Jan 2023 01:19:12 GMT</pubDate>
+        <copyright><![CDATA[2023 © lyushakov. Все права защищены.]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>lyushakov</itunes:author>
+        <itunes:summary>skol&apos;ko  ehe tureckui</itunes:summary>
+        <itunes:owner>
+            <itunes:name>lyushakov</itunes:name>
+            <itunes:email>lyushakov@self.team</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/cc1906b7-3da0-4693-8a8b-885490838af8.jpg"/>
+        <itunes:category text="Fiction">
+        </itunes:category>
+        <item>
+            <title><![CDATA[test-marshal source code &lt; &amp; &gt; user normal view < & >]]></title>
+            <description><![CDATA[source code &amp;lt; &amp;amp; &amp;gt; user normal view &lt; &amp; &gt;]]></description>
+            <link>https://blablablatest.mave.digital/ep-4</link>
+            <guid isPermaLink="false">884e6ca3-8a40-4075-9b60-5e6e748cee90</guid>
+            <pubDate>Fri, 20 Jan 2023 01:19:12 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/episodes/e816f74b-3f3b-4383-9a88-016d989e46e2.mp3" length="76904" type="audio/mpeg"/>
+            <itunes:title>test-marshal source code &amp;lt; &amp;amp; &amp;gt; user normal view &lt; &amp; &gt;</itunes:title>
+            <itunes:summary>source code &lt; &amp; &gt; user normal view &lt; &amp; &gt;</itunes:summary>
+            <content:encoded>source code &amp;amp;lt; &amp;amp;amp; &amp;amp;gt; user normal view &amp;lt; &amp;amp; &amp;gt;</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>2</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/cc1906b7-3da0-4693-8a8b-885490838af8.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[chaika-track]]></title>
+            <description><![CDATA[tratata]]></description>
+            <link>https://blablablatest.mave.digital/ep-3</link>
+            <guid isPermaLink="false">c8856605-9e16-4b6d-899a-37fe11c4e738</guid>
+            <pubDate>Fri, 28 Oct 2022 03:16:36 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/episodes/bf3fff95-3e4a-41a2-9e01-9472ea4b267b.mp3" length="54381" type="audio/mpeg"/>
+            <itunes:title>chaika-track</itunes:title>
+            <itunes:summary>tratata</itunes:summary>
+            <content:encoded>tratata</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>3</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/bf3fff95-3e4a-41a2-9e01-9472ea4b267b.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[test-grechka]]></title>
+            <description><![CDATA[source code &amp;lt; &amp;amp; &amp;gt;<p>user normal view &lt; &amp; &gt;</p><p></p><p>source code &amp;lt; &amp;amp; &amp;gt;</p><p>user normal view &lt; &amp; &gt;</p>]]></description>
+            <link>https://blablablatest.mave.digital/ep-2</link>
+            <guid isPermaLink="false">69e6bc15-d0bc-4487-af76-34398eaf1e92</guid>
+            <pubDate>Fri, 28 Oct 2022 03:15:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/episodes/03441913-16ff-40bb-b160-5d37748c2107.mp3" length="890759" type="audio/mpeg"/>
+            <itunes:title>test-grechka</itunes:title>
+            <itunes:summary>source code &lt; &amp; &gt; user normal view &lt; &amp; &gt;
+
+source code &lt; &amp; &gt;
+user normal view &lt; &amp; &gt;</itunes:summary>
+            <content:encoded>source code &amp;amp;lt; &amp;amp;amp; &amp;amp;gt;&lt;p&gt;user normal view &amp;lt; &amp;amp; &amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;source code &amp;amp;lt; &amp;amp;amp; &amp;amp;gt;&lt;/p&gt;&lt;p&gt;user normal view &amp;lt; &amp;amp; &amp;gt;&lt;/p&gt;</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>55</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/03441913-16ff-40bb-b160-5d37748c2107.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[pravda-net]]></title>
+            <link>https://blablablatest.mave.digital/ep-1</link>
+            <guid isPermaLink="false">36483762-5555-4eb4-854a-7649817747f3</guid>
+            <pubDate>Fri, 28 Oct 2022 03:14:34 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/episodes/5774239c-c961-4e54-b23e-aa10ec6bf270.mp3" length="205261" type="audio/mpeg"/>
+            <itunes:title>pravda-net</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>12</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/f2bb4c91-c9b8-495c-9caf-5388b3c3fee6/images/cc1906b7-3da0-4693-8a8b-885490838af8.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
